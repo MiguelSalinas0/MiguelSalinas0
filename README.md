@@ -25,6 +25,5 @@
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 </div>  
 
-<br/>  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSalinas0&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
