@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">✨ Creando errores desde 2020<br><br>🎮 Gamer ocasional<br><br>📚 Fanático de la lectura<br><br>🎸 Amante de la música</h5>
+<h5 align="left">- ✨ Creando errores desde 2020<br><br>- 🎮 Gamer ocasional<br><br>- 📚 Fanático de la lectura<br><br>- 🎸 Amante de la música</h5>
 
 ###
 
