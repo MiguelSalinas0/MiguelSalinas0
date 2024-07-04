@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center" style="font-size: 16px;">Un apasionado desarrollador **Junior** con un fervor especial por la creación de soluciones innovadoras.</p>
+<p align="center">Un apasionado desarrollador Junior con un fervor especial por la creación de soluciones innovadoras.</p>
 
 ###
 
