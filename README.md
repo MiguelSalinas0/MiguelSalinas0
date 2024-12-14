@@ -1,5 +1,11 @@
 <h1 align="center">Hola👋, soy Miguel!</h1>
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=miguelsalinas0.miguelsalinas0&left_color=darkslateblue&right_color=darkgrey&left_text=Bienvenidos%20%E2%9D%A4%EF%B8%8F"  />
+</div>
+
 ###
 
 <p align="center">Un apasionado desarrollador Junior con un fervor especial por la creación de soluciones innovadoras.</p>
